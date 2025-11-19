@@ -1,0 +1,23 @@
+# Ignore virtual environments
+venv/
+env/
+.venv/
+
+# Ignore common Python build folders
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore build/dist folders
+build/
+dist/
+*.egg-info/
+
+# Ignore Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore environment files
+.env
+*.env
+
