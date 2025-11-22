@@ -2,7 +2,6 @@
 venv/
 env/
 .venv/
-.artifacts
 
 # Ignore common Python build folders
 __pycache__/
