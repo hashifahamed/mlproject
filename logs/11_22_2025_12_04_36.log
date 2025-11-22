@@ -1,0 +1,6 @@
+[ 2025-11-22 12:04:37,490 ] 23 root - INFO - Entered the data injestion method or component
+[ 2025-11-22 12:04:37,497 ] 26 root - INFO - Read the dataset as dataframe
+[ 2025-11-22 12:04:37,500 ] 32 root - INFO - Train Test split initiated
+[ 2025-11-22 12:04:37,510 ] 39 root - INFO - Data Injestion Completed
+[ 2025-11-22 12:04:37,542 ] 74 root - INFO - Read train and test data completed
+[ 2025-11-22 12:04:37,542 ] 76 root - INFO - obtaining preprocessing object

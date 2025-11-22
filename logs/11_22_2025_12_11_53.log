@@ -1,0 +1,10 @@
+[ 2025-11-22 12:11:54,671 ] 23 root - INFO - Entered the data injestion method or component
+[ 2025-11-22 12:11:54,675 ] 26 root - INFO - Read the dataset as dataframe
+[ 2025-11-22 12:11:54,679 ] 32 root - INFO - Train Test split initiated
+[ 2025-11-22 12:11:54,682 ] 39 root - INFO - Data Injestion Completed
+[ 2025-11-22 12:11:54,709 ] 73 root - INFO - Read train and test data completed
+[ 2025-11-22 12:11:54,709 ] 75 root - INFO - obtaining preprocessing object
+[ 2025-11-22 12:11:54,709 ] 51 root - INFO - Categorical Colmns: ['gender', 'race_ethnicity', 'parental_level_of_education', 'lunch', 'test_preparation_course']
+[ 2025-11-22 12:11:54,709 ] 53 root - INFO - Numerical Coumns: ['writing_score', 'reading_score']
+[ 2025-11-22 12:11:54,725 ] 88 root - INFO - Applying preprocessing object on training dataframe and testing dataframe
+[ 2025-11-22 12:11:54,745 ] 103 root - INFO - Saved Preprocessing Object
